@@ -1,4 +1,4 @@
-# Computational Practice: Developing biochemical mechanism hypotheses explaining a disease phenotype	
+# Manual Assignment: Developing biochemical mechanism hypotheses explaining a disease phenotype	
 
 ## Lab Overview
 Biochemistry is everything and has been creating life for billions of years long before there were any professors or textbooks.  If we understand the biochemical mechanisms of normal and disease states in a deep manner, we should in many cases be able to correct most aberrant phenotypes using molecular tools.  In this lab, we will mine genetic information that points to candidate epilepsy genes and their encoded biochemistry.
