@@ -1,4 +1,4 @@
-# Manual Assignment: Developing biochemical mechanism hypotheses explaining a disease phenotype	
+# Manual Assignment (MA1): Developing biochemical mechanism hypotheses explaining a disease phenotype	
 
 ## Lab Overview
 Biochemistry is everything and has been creating life for billions of years long before there were any professors or textbooks.  If we understand the biochemical mechanisms of normal and disease states in a deep manner, we should in many cases be able to correct most aberrant phenotypes using molecular tools.  In this lab, we will mine genetic information that points to candidate epilepsy genes and their encoded biochemistry.
@@ -55,4 +55,6 @@ Search for gene products that interact with these three genes at BioGrid (http:/
 * Intact Interacions
 
 ## Task D: Molecular mechanism hypothesis.
-For each gene, construct a hypothesis as to how the altered biochemistry of that gene could lead to the phenotype.
+For each gene, construct a hypothesis as to how the altered biochemistry of that gene could lead to the phenotype. Provide a bried overview of evidence to support your hypothesis.  Create a PDF with this information and upload to Canvas.
+
+
