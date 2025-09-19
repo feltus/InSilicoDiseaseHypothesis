@@ -55,7 +55,7 @@ Search for gene products that interact with these three genes at BioGrid (http:/
 * Intact Interacions
 
 ## Task D: Molecular mechanism hypothesis.
-For epilepsy subtype, construct a single hypothesis as to how the altered biochemistry of that gene could lead to the phenotype. Provide a brief overview of evidence to support your hypothesis.  Create a PDF report with this information and upload it to Canvas. The hypothesis and core evidence (1-3 points with a citation) should fit one page.  
+For ONE epilepsy subtype, construct a single hypothesis as to how the altered biochemistry of that gene could lead to the phenotype. Provide a brief overview of evidence to support your hypothesis.  Create a PDF report with this information and upload it to Canvas. The hypothesis and core evidence (1-3 points with a citation) should fit one page.  
 
 Do not turn in your Excel spreadsheet. Distill information from the data you collected into the PDF.  Here is a pretend example:
 
