@@ -55,6 +55,15 @@ Search for gene products that interact with these three genes at BioGrid (http:/
 * Intact Interacions
 
 ## Task D: Molecular mechanism hypothesis.
-For each gene, construct a hypothesis as to how the altered biochemistry of that gene could lead to the phenotype. Provide a bried overview of evidence to support your hypothesis.  Create a PDF with this information and upload to Canvas.
+For epilepsy subtype, construct a single hypothesis as to how the altered biochemistry of that gene could lead to the phenotype. Provide a brief overview of evidence to support your hypothesis.  Create a PDF report with this information and upload it to Canvas. The hypothesis and core evidence (1-3 points with a citation) should fit one page.  
+Do not turn in your Excel spreadsheet. Distill information from the data you collected into the PDF.  Here is a pretend example:
+Hypothesis: Epilepsy subtype X is caused by the disruption of Gene Y’s role in inhibitory neurotransmission in the brain that reduces seizures.
+Evidence: Gene Y is expressed in the brain(ref 1).  Gene Y is a neurotransmission receptor (ref 2). Mutations in transcription factor binding site Z lead to reduced protein expression (ref 3) so it can no longer inhibit seizures.
+Citations:
+1.
+2.
+3.
+
+
 
 
