@@ -26,7 +26,7 @@ Make an Excel spreadsheet  where one gene associated with the phenotype are the 
 * Transcription Start Coordinate
 * Transcription Stop Coordinate
 * Translation Start Coordinate
-* Stop Coordinate
+* Translation Stop Coordinate
 * Exon Count
 * Intron Count
 
