@@ -42,7 +42,7 @@ For each of the 3 genes, click on the longest transcript version of gene in the 
 * KEGG Pathways
 * Reactome Pathways 
 
-### Step 2.  What DNA variation is known for these loci? Using Click on the “Common SNPs (153)” Hyperlink.  Read about this track.  Add these data that show how many DNA polymorphisms are known for the largest transcript: 
+### Step 2.  What DNA variation is known for these loci? Using Click on the “Common SNPs (155)” Hyperlink.  Read about this track.  Add these data that show how many DNA polymorphisms are known for the largest transcript: 
 * 5’ UTR SNPs
 * 3’ UTR SNPs
 * 5’ CDS SNPs (synonymous)
